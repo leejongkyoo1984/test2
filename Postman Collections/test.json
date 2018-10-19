@@ -4,12 +4,5 @@
     "name": "test",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": [
-    {
-      "_postman_id": "90b8c4da-8e79-33a3-143a-e3105180a6ac",
-      "name": "hello",
-      "description": "",
-      "item": []
-    }
-  ]
+  "item": []
 }
