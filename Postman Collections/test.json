@@ -1,0 +1,21 @@
+{
+  "info": {
+    "_postman_id": "5c7c288b-2255-b888-3b89-e6c02669748a",
+    "name": "test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "90b8c4da-8e79-33a3-143a-e3105180a6ac",
+      "name": "hello",
+      "description": "",
+      "item": []
+    },
+    {
+      "_postman_id": "c5c4facf-ff5d-72c6-8593-bdc2cd4d5335",
+      "name": "asdlkfjlkasjdf",
+      "description": "",
+      "item": []
+    }
+  ]
+}
